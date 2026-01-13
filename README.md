@@ -41,3 +41,6 @@ student-performance-ai/
 
 ## Status
 Work in progress.
+
+## Notes
+No private student data is included in this repository.
