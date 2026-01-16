@@ -1,0 +1,4 @@
+question_id,answer_given,is_correct,error_type,time_seconds,confidence
+test_01_q_01,13.5,1,none,55,4
+test_01_q_02,2.0,0,segno,80,2
+test_01_q_03,7.0,0,concetto,120,1
